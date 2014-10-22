@@ -2,8 +2,11 @@ title: 文章分类
 ---
 
 * [Help](http://howiewang.github.io/categories/Help/)
+* [cpp](http://howiewang.github.io/categories/cpp/)
+* [python](http://howiewang.github.io/categories/python/)
+* [web](http://howiewang.github.io/categories/web/)
+* [MobileApplications](http://howiewang.github.io/categories/MobileApplications/)
 * []()
-
 
 ---
 * [幸福罗盘](http://happyaround.com)

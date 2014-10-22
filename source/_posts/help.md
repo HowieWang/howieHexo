@@ -1,5 +1,10 @@
 title:  hexo的基本用法
-category: Help
+category: 
+- Help
+- cpp
+- python
+- web
+- MobileApplications
 tag:
 - hexo
 - help
@@ -9,6 +14,8 @@ tag:
 [下面是官方的解释](http://hexo.io/docs/writing.html)，但是实际使用时候还需要参考themes/xxx/layout的命名
 
 You can configure all post configuration in the front-matter. The following is predefined settings.
+
+<!--more-->
 
 Setting Description Default
 layout  Layout  post/page
