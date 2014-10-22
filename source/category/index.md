@@ -2,10 +2,10 @@ title: 文章分类
 ---
 
 * [Help](http://howiewang.github.io/categories/Help/)
-* [cpp](http://howiewang.github.io/categories/cpp/)
-* [python](http://howiewang.github.io/categories/python/)
-* [web](http://howiewang.github.io/categories/web/)
-* [MobileApplications](http://howiewang.github.io/categories/MobileApplications/)
+* [Cpp](http://howiewang.github.io/categories/Cpp/)
+* [Python](http://howiewang.github.io/categories/Python/)
+* [Web](http://howiewang.github.io/categories/Web/)
+* [MobileApp](http://howiewang.github.io/categories/MobileApp/)
 * []()
 
 ---
