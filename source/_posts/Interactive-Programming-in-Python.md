@@ -19,4 +19,4 @@ tags: coursera
 * [clac numsof even and odd](http://www.codeskulptor.org/#user38_Jarh1oJhWE_0.py)
 * [2 balls pongpong](http://www.codeskulptor.org/#user38_4g39CB4aEI_0.py)
 * [pong-类似乒乓球的小游戏](http://www.codeskulptor.org/#user38_n5v98gWnB0_1.py)
-* []()
+* [memory- 猜数字](http://www.codeskulptor.org/#user38_qttYQTpBEi_0.py)
