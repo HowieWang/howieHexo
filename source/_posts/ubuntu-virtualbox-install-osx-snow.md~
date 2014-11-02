@@ -1,0 +1,19 @@
+title: ubuntu virtualbox install osx snow
+date: 2014-10-23 23:37:27
+tags:
+---
+
+1.video
+2.download 
+3.install virtualbox
+4.settings:
+- 硬盘30G左右
+- system-去掉enable EFI 
+- display 越大越好
+- storage-image加载下载好多osx镜像
+5.安装
+- information-ok
+- select a destination---utilties-select-erase-write name
+- install summary- customize--root 2nd; kernal
+- checking install dvd
+- 
