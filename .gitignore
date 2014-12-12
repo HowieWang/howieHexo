@@ -5,3 +5,11 @@ debug.log
 node_modules/
 public/
 .deploy/
+package.json
+scaffolds/draft.md
+scaffolds/page.md
+scaffolds/photo.md
+scaffolds/post.md
+themes/huno/layout/partials/social.ejs
+themes/huno/README.md
+themes/huno/source/css/uno.css
