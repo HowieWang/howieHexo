@@ -1,7 +1,6 @@
-title: 项目文件包含 ToolsVersion="12.0" 设置，但此工具集未知或缺失
+title: vs2012提示 ToolsVersion="12.0" 错误
 date: 2014-12-18 10:15:39
-category: 
-- cpp
+category: Cpp
 tag:
 - vs2012
 - 编译
@@ -9,10 +8,10 @@ tag:
 
 ###项目文件包含 ToolsVersion="12.0" 设置，但此工具集未知或缺失
 
+<!--more-->
 编译时候提示这个错误：
 >1>项目文件包含 ToolsVersion="12.0" 设置，但此工具集未知或缺失。您可以通过为此工具集安装相应的 .NET Framework 来解决此问题。将项目视为具有 ToolsVersion="4.0" 设置。
 
-<!--more-->
 
 今天在编译vs12工程时候一直提示这个错误，编译不过，一开始还以为是.net framework的版本不对，检查了一下，本机win7 64bit默认安装的是.net4.5，于是傻乎乎的下载安装.net4.0，结果人家提示已安装了更高版本。没有办法只能继续找答案。
 

@@ -6,7 +6,7 @@ menu:
   Category: /category
 
 # Site favicon
-favicon: /favicon.png
+favicon: /favicon.ico
 
 # Site logo
 # logo: /avatar.png
@@ -29,7 +29,7 @@ widgets:
 
 # Miscellaneous
 google_analytics:
-favicon: /favicon.png
+favicon: /favicon.ico
 twitter:
 google_plus:
 fb_admins:

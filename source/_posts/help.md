@@ -1,10 +1,10 @@
 title:  hexo的基本用法
 category: 
 - Help
-- cpp
-- python
-- web
-- MobileApplications
+- Cpp
+- Python
+- Web
+- MobileApp
 tag:
 - hexo
 - help
