@@ -3,7 +3,6 @@ date: 2014-12-19 11:49:32
 tags: git
 category: 
 - Help
-- Web
 ---
 
 总结自己的git使用方法。

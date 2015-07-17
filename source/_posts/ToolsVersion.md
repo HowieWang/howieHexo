@@ -1,9 +1,7 @@
-title: vs2012提示 ToolsVersion="12.0" 错误
+title: vs2012提示 ToolsVersion12.0错误
 date: 2014-12-18 10:15:39
-category: Cpp
-tag:
-- vs2012
-- 编译
+category: Cplusplus
+tags: vs2012
 ---
 
 ###项目文件包含 ToolsVersion="12.0" 设置，但此工具集未知或缺失

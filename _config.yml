@@ -7,12 +7,12 @@ title: 咆哮金刚猪的编程乐园
 subtitle: 不把github鼓捣成博客的程序猿不是一个好的喵星人
 description: 不把github鼓捣成博客的程序猿不是一个好的喵星人
 author: howiewang
-email: wh@happyaround.com
+email: i@howie.wang
 language:
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: http://yoursite.com
+url: http://howiewang.github.io
 root: /
 permalink: :year/:month/:day/:title/
 tag_dir: tags
@@ -79,7 +79,7 @@ disqus_shortname: Howie
 # Extensions
 ## Plugins: https://github.com/hexojs/hexo/wiki/Plugins
 ## Themes: https://github.com/hexojs/hexo/wiki/Themes
-theme: huno
+theme: jacman
 exclude_generator:
 
 # Deployment

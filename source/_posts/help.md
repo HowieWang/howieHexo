@@ -1,10 +1,7 @@
 title:  hexo的基本用法
 category: 
-- Help
-- Cpp
-- Python
-- Web
-- MobileApp
+- Help  
+
 tag:
 - hexo
 - help
@@ -48,6 +45,9 @@ tags:
         业余爱好  = 敲敲python，学学韩语，上上公开课。
     }
 ```
+
+http://howiewang.github.io/categories/Web/
+http://howiewang.github.io/categories/Help/
 
 ----
 ###几个已经存在的窝
